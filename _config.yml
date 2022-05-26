@@ -3,8 +3,9 @@ title: nick11967 page
 description: >
   Welcome to my homepage
 
-baseurl: "/pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://nick11967.github.io" # the base hostname & protocol for your site
+remote_theme: knhash/Pudhina
 
 author:
   fullname: nick11967
