@@ -3,7 +3,7 @@ title: nick11967 page
 description: >
   Welcome to my homepage
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/index" # the subpath of your site, e.g. /blog/
 url: "https://nick11967.github.io" # the base hostname & protocol for your site
 remote_theme: knhash/Pudhina
 
