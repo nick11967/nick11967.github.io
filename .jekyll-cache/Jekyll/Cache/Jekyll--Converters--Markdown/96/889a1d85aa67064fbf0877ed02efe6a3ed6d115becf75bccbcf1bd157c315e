@@ -1,10 +1,12 @@
-I""<p><span style="float: right; "><a href="/index/assets/resume.pdf"><strong>&gt; Download as PDF</strong></a> </span>
+I"�<p><span style="float: right; "><a href="/index/assets/resume.pdf"><strong>&gt; Download as PDF</strong></a> </span>
 <br /></p>
 
 <h3 id="skills">SKILLS</h3>
+
 <p><code class="language-plaintext highlighter-rouge">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi. </code></p>
 
 <h3 id="projects">PROJECTS</h3>
+
 <p><strong>Title</strong> - Description - Place <span style="float: right; ">Time span</span><br />
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.</p>
 
@@ -52,4 +54,72 @@ Technologies used</p>
   <li>Etiam luctus ante quis est dictum faucibus.</li>
   <li>Etiam luctus ante quis est dictum faucibus.</li>
 </ul>
+
+<hr />
+
+<h1 id="welcome-to-my-zone">Welcome to my zone</h1>
+
+<p>I’m undergraduate student at <strong>Seoul National University</strong>!<br />
+I major in <strong>Computer Science &amp; Engineering</strong></p>
+
+<h2 id="contact">Contact</h2>
+
+<ul>
+  <li>Email : nick11967@snu.ac.kr</li>
+  <li>Instargram : <a href="https://www.instagram.com/dgw_ryu.jimin/">@dgw_ryu.jimin</a></li>
+</ul>
+
+<h2 id="interest">Interest</h2>
+
+<ul>
+  <li>💻 PS <a href="https://solved.ac/profile/nick11967">nick11967</a></li>
+  <li>✏️ 3Dpen <a href="https://www.instagram.com/dgw_with.3dpen/">@dgw_with.3dpen</a></li>
+  <li>⚙️ Making</li>
+  <li>🎷 Ja-zz (Try this also =&gt; <a href="https://www.youtube.com/shorts/18OYMT2qUSY">video1</a> , <a href="https://www.youtube.com/shorts/Q1xVF7FFvBU">video2</a> )
+<br /></li>
+</ul>
+
+<p><a href="https://www.youtube.com/watch?v=c_Axwc6bPuk"><img src="https://img.youtube.com/vi/c_Axwc6bPuk/0.jpg" alt="미리보기" /></a></p>
+
+<p><br />
+<br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Command</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">git status</code></td>
+      <td>List all “new or modified” files</td>
+    </tr>
+    <tr>
+      <td><code class="language-plaintext highlighter-rouge">git diff</code></td>
+      <td>Show file differences that <strong>haven’t been</strong> staged</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- --- 세 개 이상은 줄 -->
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>print("Nice to meet you")
+</code></pre></div></div>
+
+<p>🦖<a href="./first_page.md">Relative links</a>🦖</p>
+
+<!-- 주석을 왜 이제 알려줘 -->
+
+<p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="https://jekyllrb.com/">jekyllrb.com</a></p>
+
+<p>You can find the source code for Minima at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/minima">minima</a></p>
+
+<p>You can find the source code for Jekyll at GitHub:
+<a href="https://github.com/jekyll">jekyll</a> /
+<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
+
 :ET
